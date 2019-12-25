@@ -1,4 +1,4 @@
-# Lesson 5: Grasshopper-and-Hedgehog
+# Lesson 5: The Grasshopper And The Hedgehog
 
 ## Author
 Leslie8826
