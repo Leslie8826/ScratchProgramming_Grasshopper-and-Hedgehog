@@ -12,7 +12,7 @@ Fall 2019
 ## Difficulty
 Easy
 
-## Objectives: 
+## Objectives 
   - Students will be able to: 
        * work with 2 characters at the same time
        * implement code for these 2 characters
@@ -27,6 +27,6 @@ Easy
        * repeat block
        * wait block
 
-## Outcome:
+## Outcome
 Race between a grasshopper and a hedgehog <br>
 https://scratch.mit.edu/projects/348219863
